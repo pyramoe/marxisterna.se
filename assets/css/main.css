@@ -108,7 +108,7 @@ a {
 }
 
 .brand {
-  width: 4.4rem;
+  width: clamp(12rem, 19vw, 15rem);
   flex: none;
 }
 
@@ -843,7 +843,7 @@ a {
 }
 
 .footer-brand img {
-  width: 7rem;
+  width: min(19rem, 100%);
 }
 
 .footer-brand p,
@@ -895,7 +895,7 @@ a {
   }
 
   .brand {
-    width: 3.7rem;
+    width: 10.5rem;
   }
 
   .menu-button {
