@@ -24,3 +24,9 @@ Medlemskap i Marxisterna innebär inte att du måste vara medlem i ett parti ell
 ## Verksamheten utvecklas
 
 Vi befinner oss fortfarande i ett uppbyggnadsskede och arbetar med formerna för föreningens verksamhet. Information om medlemskap, studieverksamhet och andra sätt att delta publiceras när arbetet har kommit längre.
+
+## Kontakt
+
+E-post: [marxisterna@proton.me](mailto:marxisterna@proton.me)
+
+Instagram: [@marxisterna](https://www.instagram.com/marxisterna/)
