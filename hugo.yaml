@@ -8,7 +8,7 @@ disableKinds:
   - term
 
 params:
-  description: En partipolitiskt obunden förening som vill stärka vänsterns ideologiska grund genom marxism, radikalfeminism, antirasism och antiimperialism.
+  description: En förening som vill stärka vänsterns ideologiska grund genom marxism, radikalfeminism, antirasism och antiimperialism.
 
 menus:
   main:

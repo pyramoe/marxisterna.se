@@ -2,7 +2,7 @@
 title: Engagera dig
 weight: 4
 intro: Marxisterna samlar människor som vill stärka vänsterns ideologiska och teoretiska grund, oavsett partitillhörighet.
-description: Engagera dig i Marxisternas partipolitiskt obundna verksamhet för marxism, radikalfeminism, antirasism och antiimperialism.
+description: Engagera dig i Marxisternas verksamhet för marxism, radikalfeminism, antirasism och antiimperialism.
 ---
 
 ## Föreningen bildas
@@ -11,7 +11,7 @@ Marxisterna bildas för att stärka den ideologiska och teoretiska diskussionen 
 
 ## Med eller utan partitillhörighet
 
-Föreningen är partipolitiskt obunden och inte knuten till något visst parti. Du ska kunna delta oavsett om du står utanför partierna, är medlem i ett vänsterparti eller är medlem i ett annat vänsterparti.
+Föreningen är inte knuten till något visst parti. Du ska kunna delta oavsett om du står utanför partierna, är medlem i ett vänsterparti eller är medlem i ett annat vänsterparti.
 
 Den gemensamma verksamheten utanför partierna kan bestå av studier, politisk analys, publikationer, offentliga möten och idédebatt.
 

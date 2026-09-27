@@ -1,8 +1,8 @@
 ---
 title: Om oss
 weight: 1
-intro: Marxisterna är en partipolitiskt obunden förening under bildande som vill stärka den ideologiska och teoretiska grunden inom vänstern.
-description: Läs om Marxisternas ideologiska grund, partipolitiskt obundna verksamhet och möjliga öppna fraktioner inom olika partier.
+intro: Marxisterna är en förening under bildande som vill stärka den ideologiska och teoretiska grunden inom vänstern.
+description: Läs om Marxisternas ideologiska grund, gemensamma verksamhet och möjliga öppna fraktioner inom olika partier.
 ---
 
 ## Varför föreningen bildas
@@ -27,9 +27,9 @@ Marxisterna ska inte bedriva hemligt fraktionsarbete. Föreningens existens, pol
 
 En fraktion är en möjlig verksamhetsform för de föreningsmedlemmar som befinner sig i samma parti. Den binder inte hela föreningen till det partiet, och medlemmar ska inte förväntas bilda eller delta i en fraktion där detta inte är tillåtet.
 
-## Partipolitiskt obunden verksamhet
+## Gemensam verksamhet utanför partierna
 
-Marxisterna ska också bedriva gemensam och partipolitiskt obunden verksamhet utanför partierna. Den ska kunna samla alla föreningens medlemmar oavsett partitillhörighet och kan bestå av studier, politisk analys, publikationer, offentliga möten och idédebatt.
+Marxisterna ska också bedriva gemensam verksamhet utanför partierna. Den ska kunna samla alla föreningens medlemmar oavsett partitillhörighet och kan bestå av studier, politisk analys, publikationer, offentliga möten och idédebatt.
 
 ## Vår ideologiska grund
 

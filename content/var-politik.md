@@ -45,4 +45,4 @@ Vår uppgift är inte att bygga ett nytt parti. Vi vill verka för att befintlig
 
 En organisation med en stabil ideologisk grund har bättre förutsättningar att stå emot kortsiktiga svängningar, bedöma politiska kompromisser och hålla fast vid sina långsiktiga mål.
 
-Detta vill vi göra genom partipolitiskt obunden verksamhet och genom öppet arbete av medlemmar inom olika partier och organisationer. Om medlemmar bildar en fraktion inom ett parti ska det endast ske öppet och när partiets stadgar, demokratiska beslut, organisatoriska former och praxis tillåter det.
+Detta vill vi göra genom gemensam verksamhet utanför partierna och genom öppet arbete av medlemmar inom olika partier och organisationer. Om medlemmar bildar en fraktion inom ett parti ska det endast ske öppet och när partiets stadgar, demokratiska beslut, organisatoriska former och praxis tillåter det.
