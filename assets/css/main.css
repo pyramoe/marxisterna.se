@@ -251,7 +251,7 @@ a {
 
 .hero h1 {
   max-width: 13ch;
-  font-size: clamp(3.5rem, 7.4vw, 7.7rem);
+  font-size: clamp(3.5rem, 5.8vw, 7rem);
   text-transform: uppercase;
 }
 
@@ -379,8 +379,7 @@ a {
   font-size: 0.93rem;
 }
 
-.notice-label,
-.placeholder-badge {
+.notice-label {
   flex: none;
   display: inline-block;
   padding: 0.26rem 0.55rem;
@@ -729,6 +728,18 @@ a {
   text-transform: uppercase;
 }
 
+.empty-state {
+  margin: 0;
+  padding: clamp(3rem, 8vw, 7rem) 0;
+  border-bottom: 2px solid var(--ink);
+  font-family: var(--display);
+  font-size: clamp(1.8rem, 4vw, 3.5rem);
+  font-weight: 900;
+  line-height: 1.08;
+  letter-spacing: -0.035em;
+  text-transform: uppercase;
+}
+
 .blog-row {
   display: grid;
   grid-template-columns: 11rem minmax(0, 1fr) 3rem;
@@ -1048,4 +1059,3 @@ a {
     transition-duration: 0.01ms !important;
   }
 }
-

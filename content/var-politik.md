@@ -1,29 +1,20 @@
 ---
 title: Vår politik
 weight: 2
-intro: Vår politik tar sin början i människors vardag och i övertygelsen om att samhället går att förändra.
-description: En översikt över Marxisternas politiska utgångspunkter och politikområden.
+intro: Vi vill verka för att vänsterpolitiken ska ha en stark och stabil ideologisk grund.
+description: Marxisternas ideologiska inriktning har sin främsta grund i marxismen och även i radikalfeminismen.
 ---
 
-## Ett jämlikt samhälle
+## En stabil ideologisk grund
 
-Här kommer föreningens politiska program att publiceras. Texterna nedan visar hur sidan kan struktureras och är inte ett fastställt program.
+Marxisterna bildas för att verka för att vänsterpolitiken ska vila på en stark ideologisk grund. För oss betyder det främst marxismen, men också radikalfeminismen.
 
-## Arbete och ekonomi
+## Varför behövs föreningen?
 
-Alla ska ha trygghet i arbetslivet och inflytande över de beslut som formar vardagen. På den här platsen utvecklar vi senare våra analyser och konkreta förslag.
+Vi har sett att vänsterprojekt ofta är svaga ideologiskt och teoretiskt. Även projekt som bildas för att vara mer radikala tenderar att falla tillbaka i reformistisk och antimarxistisk politik.
 
-## Välfärd och gemensam trygghet
+## Vår ambition
 
-Vård, skola och omsorg ska utgå från människors behov. Den färdiga texten kommer att beskriva föreningens syn på finansiering, kvalitet och demokratisk styrning.
+Det vill vi ändra på. Vi vill trycka på att politiken ska ha en stabil ideologisk och teoretisk grund och att politiska ställningstaganden och strategier ska vara förankrade i genomarbetad analys.
 
-## Klimat och omställning
-
-Klimatomställningen behöver vara snabb, rättvis och demokratiskt förankrad. Här publiceras senare våra prioriteringar och förslag.
-
-## Demokrati och internationell solidaritet
-
-Demokratiska rättigheter måste försvaras och fördjupas. Den slutliga sidan kommer också att presentera föreningens internationella perspektiv.
-
-> **Observera:** All text på den här sidan är preliminär exempeltext och ska ersättas med beslutat material.
-
+Mer information kommer snart.

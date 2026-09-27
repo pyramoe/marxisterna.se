@@ -10,22 +10,24 @@
     <div class="shell">
       <div class="blog-list__bar">
         <span>Alla inlägg</span>
-        <span>{{ len .Pages }} exempel</span>
+        <span>{{ len .Pages }} inlägg</span>
       </div>
       <div class="blog-rows">
-        {{ range .Pages.ByDate.Reverse }}
+        {{ if .Pages }}
+          {{ range .Pages.ByDate.Reverse }}
           <article class="blog-row">
             <p class="post-meta"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date | time.Format ":date_long" }}</time></p>
             <div>
-              <span class="placeholder-badge">Exempeltext</span>
               <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
               <p>{{ .Summary }}</p>
             </div>
             <a class="row-arrow" href="{{ .RelPermalink }}" aria-label="Läs {{ .Title }}">↗</a>
           </article>
+          {{ end }}
+        {{ else }}
+          <p class="empty-state">Inga texter har publicerats ännu. Mer information kommer snart.</p>
         {{ end }}
       </div>
     </div>
   </section>
 {{ end }}
-

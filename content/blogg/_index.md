@@ -1,6 +1,5 @@
 ---
 title: Blogg
-intro: Här publicerar vi analyser, rapporter från verksamheten och nyheter från föreningen.
-description: Läs texter, analyser och nyheter från Marxisterna.
+intro: Inga texter har publicerats ännu. Mer information kommer snart.
+description: Marxisternas blogg. Mer information kommer snart.
 ---
-

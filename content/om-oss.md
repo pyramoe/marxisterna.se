@@ -1,27 +1,18 @@
 ---
 title: Om oss
 weight: 1
-intro: Vi är en politisk förening som samlar människor för studier, samtal och gemensam handling.
-description: Läs om Marxisterna, vår förening och hur vi arbetar.
+intro: Marxisterna är en förening under bildande som vill stärka vänsterpolitikens ideologiska och teoretiska grund.
+description: Läs om varför Marxisterna bildas och föreningens ideologiska inriktning.
 ---
 
-## Vilka vi är
+## Varför föreningen bildas
 
-Marxisterna är en politisk förening under uppbyggnad. Här kommer vi att presentera vår historia, vår organisation och vad som förenar våra medlemmar.
+Marxisterna är en förening under bildande. Vi vill verka för att vänsterpolitiken ska vila på en stark ideologisk grund, främst i marxismen men också i radikalfeminismen.
 
-Den här texten är en platshållare. Den slutliga presentationen ska ge en tydlig bild av föreningens syfte, värderingar och arbetssätt.
+Vi har sett att vänsterprojekt ofta är ideologiskt och teoretiskt svaga. Det gäller även projekt som nyligen har bildats med ambitionen att vara mer radikala. När den ideologiska grunden är svag finns en tendens att falla tillbaka i reformistisk och antimarxistisk politik.
 
-## Så arbetar vi
+## Det vill vi förändra
 
-Vi vill skapa utrymme för politisk bildning, öppna diskussioner och gemensamma initiativ. Verksamheten kommer att beskrivas när föreningens kalender och arbetsformer är fastställda.
+Vi vill bidra till en vänsterpolitik med en stabil ideologisk och teoretisk grund. Politiska ställningstaganden och strategier behöver vara förankrade i genomarbetad analys.
 
-### Våra principer
-
-- Vi organiserar demokratiskt och transparent.
-- Vi bygger kunskap tillsammans.
-- Vi låter solidaritet prägla både mål och metoder.
-
-## Organisation
-
-Information om styrelse, stadgar, lokala grupper och medlemskap publiceras här inför lanseringen.
-
+Mer information om föreningen och dess bildande kommer snart.

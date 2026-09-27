@@ -4,7 +4,6 @@
       <header class="article-header">
         <div class="shell shell--narrow">
           <a class="back-link" href="{{ "/blogg/" | relURL }}">← Till bloggen</a>
-          {{ if .Params.placeholder }}<span class="placeholder-badge">Exempeltext</span>{{ end }}
           <h1>{{ .Title }}</h1>
           <p class="article-meta"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date | time.Format ":date_long" }}</time><span>·</span><span>{{ .ReadingTime }} min läsning</span></p>
         </div>
@@ -26,7 +25,6 @@
         <aside class="content-aside" aria-label="Sidinformation">
           <span>Dokument</span>
           <strong>0{{ .Weight | default 1 }}</strong>
-          <p>Innehållet är preliminärt och ersätts inför lansering.</p>
         </aside>
         <div class="prose">
           {{ .Content }}
@@ -35,4 +33,3 @@
     </article>
   {{ end }}
 {{ end }}
-
