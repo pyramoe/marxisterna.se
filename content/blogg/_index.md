@@ -1,5 +1,5 @@
 ---
 title: Blogg
-intro: Inga texter har publicerats ännu. Mer information kommer snart.
-description: Marxisternas blogg. Mer information kommer snart.
+intro: Här kommer vi att publicera analyser och debatt med utgångspunkt i marxism, radikalfeminism, antirasism och antiimperialism.
+description: Marxisternas analyser och debatt om marxism, radikalfeminism, antirasism och antiimperialism.
 ---
