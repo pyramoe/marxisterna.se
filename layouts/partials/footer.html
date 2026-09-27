@@ -1,0 +1,26 @@
+<footer class="site-footer">
+  <div class="shell footer-grid">
+    <div class="footer-brand">
+      <img src="{{ "images/logo-white.svg" | relURL }}" alt="Marxisterna" width="404" height="358">
+      <p>En politisk förening för jämlikhet, demokrati och solidaritet.</p>
+    </div>
+    <div>
+      <p class="footer-heading">Genvägar</p>
+      <ul class="footer-links">
+        {{ range .Site.Menus.main }}
+          <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+        {{ end }}
+      </ul>
+    </div>
+    <div>
+      <p class="footer-heading">Kontakt</p>
+      <p>Kontaktuppgifter publiceras snart.</p>
+      <p class="footer-note">Webbplatsen innehåller tills vidare exempeltexter.</p>
+    </div>
+  </div>
+  <div class="shell footer-bottom">
+    <p>© <span data-year>{{ now.Year }}</span> Marxisterna</p>
+    <a href="#main">Till toppen ↑</a>
+  </div>
+</footer>
+

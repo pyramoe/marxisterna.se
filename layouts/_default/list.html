@@ -1,0 +1,31 @@
+{{ define "main" }}
+  <section class="page-header page-header--blog">
+    <div class="shell">
+      <p class="eyebrow">Texter & uppdateringar</p>
+      <h1>{{ .Title }}</h1>
+      {{ with .Params.intro }}<p class="page-intro">{{ . }}</p>{{ end }}
+    </div>
+  </section>
+  <section class="section blog-list">
+    <div class="shell">
+      <div class="blog-list__bar">
+        <span>Alla inlägg</span>
+        <span>{{ len .Pages }} exempel</span>
+      </div>
+      <div class="blog-rows">
+        {{ range .Pages.ByDate.Reverse }}
+          <article class="blog-row">
+            <p class="post-meta"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date | time.Format ":date_long" }}</time></p>
+            <div>
+              <span class="placeholder-badge">Exempeltext</span>
+              <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+              <p>{{ .Summary }}</p>
+            </div>
+            <a class="row-arrow" href="{{ .RelPermalink }}" aria-label="Läs {{ .Title }}">↗</a>
+          </article>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+{{ end }}
+

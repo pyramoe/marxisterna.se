@@ -1,0 +1,38 @@
+baseURL: https://marxisterna.se/
+locale: sv-SE
+defaultContentLanguage: sv
+title: Marxisterna
+enableRobotsTXT: true
+disableKinds:
+  - taxonomy
+  - term
+
+params:
+  description: En politisk förening som organiserar för jämlikhet, demokrati och solidaritet.
+
+menus:
+  main:
+    - name: Om oss
+      pageRef: /om-oss
+      weight: 10
+    - name: Vår politik
+      pageRef: /var-politik
+      weight: 20
+    - name: Blogg
+      pageRef: /blogg
+      weight: 30
+    - name: Engagera dig
+      pageRef: /engagera-dig
+      weight: 40
+
+permalinks:
+  blogg: /blogg/:slug/
+
+caches:
+  images:
+    dir: :cacheDir/images
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: false
