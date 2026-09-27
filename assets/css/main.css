@@ -208,6 +208,7 @@ a {
 }
 
 .hero-copy {
+  container-type: inline-size;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -252,6 +253,7 @@ a {
 .hero h1 {
   max-width: 13ch;
   font-size: clamp(3.5rem, 5.8vw, 7rem);
+  font-size: clamp(1.9rem, 10.25cqi, 7rem);
   text-transform: uppercase;
 }
 
@@ -1001,7 +1003,7 @@ a {
 
 @media (max-width: 620px) {
   .hero h1 {
-    font-size: clamp(3rem, 15vw, 5rem);
+    font-size: clamp(1.9rem, 9.5vw, 3.75rem);
   }
 
   .button-row,
